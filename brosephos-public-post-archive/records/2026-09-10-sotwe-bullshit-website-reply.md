@@ -14,7 +14,7 @@ Sotwe renders this as a reply authored by @Brosephos and addressed to @YeFutureS
 
 ## Source
 - Rendered source page: https://www.sotwe.com/Brosephos?lang=en
-- Media attachment exposed by the rendered page: https://pbs.twimg.com/media/PLACEHOLDER
+- Tweet-media shortlink shown by the rendered page: https://t.co/QTXsTYdWqu
 
 ## Source notes
 The rendered page exposed a linked tweet-photo attachment alongside the reply, but that attachment is **not** a screenshot of the rendered X/Sotwe post and therefore is not archived or represented as authentic screenshot evidence here. No stable individual X/status URL was exposed in the retrieved rendering.
